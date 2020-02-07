@@ -54,6 +54,7 @@ body
 {
     text-align: center;
     font-size: 30px;
+    box-shadow: 0px 2px 10px 0px rgba(126, 14, 14, 0.75);
 }
 
 #post
